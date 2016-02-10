@@ -1,0 +1,15 @@
+{
+	"name": "GoTPL: swift",
+	"uuid": "59c8219d-aedf-4624-9deb-7391b8192bbe",
+	"scopeName": "source.swift.gotpl",
+	"fileTypes": ["goswift"],
+
+	"patterns": [
+		{
+			"include": "source.swift",
+		},
+		{
+			"include": "source.gotemplate",
+		},
+	]
+}
