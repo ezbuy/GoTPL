@@ -6,10 +6,10 @@
 
 	"patterns": [
 		{
-			"include": "source.swift",
+			"include": "source.swift"
 		},
 		{
-			"include": "source.gotemplate",
-		},
+			"include": "source.gotemplate"
+		}
 	]
 }
