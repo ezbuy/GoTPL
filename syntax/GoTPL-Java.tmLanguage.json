@@ -1,0 +1,15 @@
+{
+	"name": "GoTPL: java",
+	"uuid": "6e2a1bd5-d5ee-4b3f-ac87-385117ad4319",
+	"scopeName": "source.java.gotpl",
+	"fileTypes": ["gojava"],
+
+	"patterns": [
+		{
+			"include": "source.java"
+		},
+		{
+			"include": "source.gotemplate"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>gojava</string>
+	</array>
+	<key>name</key>
+	<string>GoTPL: java</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>include</key>
+			<string>source.java</string>
+		</dict>
+		<dict>
+			<key>include</key>
+			<string>source.gotemplate</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.java.gotpl</string>
+	<key>uuid</key>
+	<string>6e2a1bd5-d5ee-4b3f-ac87-385117ad4319</string>
+</dict>
+</plist>
