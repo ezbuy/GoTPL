@@ -1,0 +1,15 @@
+{
+	"name": "GoTPL: go",
+	"uuid": "451b8fd5-3131-4682-a8f1-268a4410bd38",
+	"scopeName": "source.go.gotpl",
+	"fileTypes": ["gogo"],
+
+	"patterns": [
+		{
+			"include": "source.go"
+		},
+		{
+			"include": "source.gotemplate"
+		}
+	]
+}
